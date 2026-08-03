@@ -11,7 +11,8 @@ Decision history — Every analysis is saved automatically so you can revisit pa
 Follow-up check-ins — Mefinder notices when you haven't revisited an older decision and gently asks how it's going.
 Bilingual — Full English and Polish support, including AI-generated content.
 Private by design — Your profile, chat history, and decision history are saved to your account only; nothing is shared.
-How it works
+
+How it works:
 
 Mefinder is built as a self-contained React app that calls the Claude API directly to power its conversational advisor, decision analysis, and live web-search-based job matching. Your data persists across sessions using per-user key-value storage.
 
